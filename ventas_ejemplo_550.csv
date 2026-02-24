@@ -1,0 +1,551 @@
+fecha,producto,categoria,cantidad,precio_unitario,total,ciudad,metodo_pago
+2024-04-12,Shampoo 400ml,Salud y belleza,4,8.05,32.2,Ciudad de México,Efectivo
+2024-03-12,Refresco cola 2L,Bebidas,2,2.24,4.48,Querétaro,Tarjeta crédito
+2025-04-11,Protector solar,Salud y belleza,1,17.16,17.16,Monterrey,Billetera digital
+2025-01-07,Auriculares,Tecnología,2,87.3,174.6,Ciudad de México,Tarjeta crédito
+2025-10-23,Refresco cola 2L,Bebidas,1,7.44,7.44,Sevilla,Billetera digital
+2025-02-17,Galletas,Alimentos,1,3.16,3.16,Tijuana,Billetera digital
+2024-10-03,Mouse inalámbrico,Tecnología,2,76.51,153.02,Barcelona,Billetera digital
+2024-09-09,Detergente 1L,Hogar,1,5.95,5.95,Mérida,Transferencia
+2024-02-28,Esponjas x3,Hogar,1,1.79,1.79,Querétaro,Tarjeta débito
+2025-11-30,Detergente 1L,Hogar,1,8.75,8.75,Monterrey,Transferencia
+2025-11-17,Aceite de oliva 500ml,Alimentos,2,5.33,10.66,Santiago,Billetera digital
+2024-08-31,Detergente 1L,Hogar,2,1.79,3.58,Barcelona,Billetera digital
+2025-10-08,Café molido 250g,Alimentos,1,1.9,1.9,Monterrey,Billetera digital
+2025-01-22,Bolsas de basura 30u,Hogar,7,10.58,74.06,Santiago,Billetera digital
+2026-02-15,Agua 1.5L,Bebidas,1,2.92,2.92,Guadalajara,Tarjeta débito
+2024-04-01,Detergente 1L,Hogar,1,3.07,3.07,León,Tarjeta crédito
+2025-05-23,Teclado,Tecnología,4,27.42,109.68,Barcelona,Efectivo
+2024-03-21,Jugo naranja 1L,Bebidas,1,6.9,6.9,Santiago,Tarjeta débito
+2024-01-02,Desodorante,Salud y belleza,1,8.86,8.86,Monterrey,Billetera digital
+2026-02-10,Crema hidratante,Salud y belleza,1,34.0,34.0,León,Tarjeta débito
+2025-12-30,Power bank 10k,Tecnología,1,52.26,52.26,Bogotá,Billetera digital
+2024-09-26,Jugo naranja 1L,Bebidas,3,3.8,11.4,Guadalajara,Tarjeta débito
+2025-04-06,Aceite de oliva 500ml,Alimentos,1,1.69,1.69,Buenos Aires,Efectivo
+2024-10-22,Pasta 500g,Alimentos,5,9.27,46.35,Lima,Tarjeta débito
+2024-02-22,Pasta dental,Salud y belleza,2,33.85,67.7,Buenos Aires,Transferencia
+2024-07-06,Jugo naranja 1L,Bebidas,2,2.1,4.2,Querétaro,Tarjeta débito
+2024-01-15,Protector solar,Salud y belleza,1,2.52,2.52,Bogotá,Billetera digital
+2025-06-04,Cable USB-C,Tecnología,3,30.26,90.78,Buenos Aires,Efectivo
+2025-04-16,Refresco cola 2L,Bebidas,1,2.63,2.63,Sevilla,Transferencia
+2025-01-26,Arroz 1kg,Alimentos,3,9.53,28.59,Puebla,Tarjeta débito
+2026-02-11,Crema hidratante,Salud y belleza,7,23.49,164.43,Madrid,Billetera digital
+2024-01-28,Café molido 250g,Alimentos,5,7.93,39.65,Buenos Aires,Billetera digital
+2024-02-02,Cable USB-C,Tecnología,1,42.83,42.83,Bogotá,Billetera digital
+2025-12-28,Atún en lata,Alimentos,2,7.59,15.18,Puebla,Billetera digital
+2025-12-26,Esponjas x3,Hogar,5,9.03,45.15,Puebla,Efectivo
+2025-09-04,Mouse inalámbrico,Tecnología,9,103.08,927.72,Barcelona,Tarjeta crédito
+2024-01-05,Desodorante,Salud y belleza,2,27.44,54.88,Sevilla,Tarjeta débito
+2025-01-27,Camiseta,Ropa,3,13.32,39.96,Medellín,Billetera digital
+2025-04-05,Pantalón,Ropa,1,72.18,72.18,Querétaro,Efectivo
+2024-08-28,Té helado 500ml,Bebidas,1,5.48,5.48,Sevilla,Tarjeta crédito
+2026-01-03,Sudadera,Ropa,1,50.33,50.33,Valencia,Tarjeta crédito
+2025-10-16,Aceite de oliva 500ml,Alimentos,3,3.67,11.01,Medellín,Tarjeta débito
+2024-06-08,Pasta 500g,Alimentos,2,8.7,17.4,Monterrey,Tarjeta crédito
+2025-07-31,Pasta dental,Salud y belleza,2,11.76,23.52,Monterrey,Billetera digital
+2025-10-07,Refresco cola 2L,Bebidas,1,2.81,2.81,Valencia,Billetera digital
+2024-12-05,Jugo naranja 1L,Bebidas,6,5.76,34.56,Sevilla,Billetera digital
+2025-05-20,Mouse inalámbrico,Tecnología,1,47.91,47.91,Tijuana,Efectivo
+2024-07-08,Teclado,Tecnología,1,33.53,33.53,Barcelona,Billetera digital
+2025-09-24,Auriculares,Tecnología,4,104.4,417.6,León,Tarjeta débito
+2024-12-24,Aceite de oliva 500ml,Alimentos,1,6.97,6.97,Ciudad de México,Billetera digital
+2024-11-13,Pantalón,Ropa,1,13.99,13.99,León,Tarjeta crédito
+2025-11-14,Atún en lata,Alimentos,1,3.02,3.02,Guadalajara,Tarjeta débito
+2025-11-02,Arroz 1kg,Alimentos,1,8.79,8.79,Lima,Tarjeta crédito
+2024-04-22,Pantalón,Ropa,1,24.04,24.04,Bogotá,Transferencia
+2024-09-24,Té helado 500ml,Bebidas,1,5.37,5.37,Querétaro,Billetera digital
+2024-04-22,Calcetines pack,Ropa,1,79.83,79.83,León,Transferencia
+2025-11-29,Mouse inalámbrico,Tecnología,2,64.3,128.6,Puebla,Tarjeta crédito
+2025-07-19,Pasta dental,Salud y belleza,1,13.39,13.39,Santiago,Transferencia
+2025-01-19,Power bank 10k,Tecnología,1,24.23,24.23,Guadalajara,Tarjeta crédito
+2025-11-14,Café molido 250g,Alimentos,1,7.17,7.17,Lima,Tarjeta crédito
+2024-09-03,Refresco cola 2L,Bebidas,2,7.81,15.62,Tijuana,Billetera digital
+2024-05-02,Mouse inalámbrico,Tecnología,1,97.95,97.95,Madrid,Tarjeta débito
+2025-09-01,Velas aromáticas,Hogar,2,10.11,20.22,León,Tarjeta crédito
+2026-01-21,Cable USB-C,Tecnología,4,24.88,99.52,Puebla,Tarjeta crédito
+2024-07-05,Protector solar,Salud y belleza,1,3.35,3.35,Ciudad de México,Tarjeta crédito
+2025-10-21,Refresco cola 2L,Bebidas,1,2.83,2.83,Madrid,Transferencia
+2024-12-11,Mouse inalámbrico,Tecnología,1,33.37,33.37,Buenos Aires,Tarjeta crédito
+2025-12-11,Cerveza 6-pack,Bebidas,1,7.16,7.16,Ciudad de México,Transferencia
+2025-10-01,Velas aromáticas,Hogar,1,15.24,15.24,Medellín,Transferencia
+2026-02-17,Protector solar,Salud y belleza,1,5.74,5.74,Valencia,Tarjeta débito
+2024-05-30,Jugo naranja 1L,Bebidas,2,7.2,14.4,Tijuana,Tarjeta crédito
+2024-09-19,Gorra,Ropa,2,66.29,132.58,Guadalajara,Efectivo
+2025-07-25,Arroz 1kg,Alimentos,1,11.96,11.96,Valencia,Billetera digital
+2024-09-10,Pantalón,Ropa,6,72.53,435.18,Guadalajara,Billetera digital
+2024-01-09,Pasta 500g,Alimentos,1,8.76,8.76,Monterrey,Billetera digital
+2024-07-26,Atún en lata,Alimentos,6,10.78,64.68,León,Transferencia
+2024-04-29,Galletas,Alimentos,5,10.39,51.95,León,Billetera digital
+2025-09-16,Camiseta,Ropa,1,72.39,72.39,Monterrey,Transferencia
+2024-09-10,Protector solar,Salud y belleza,1,5.35,5.35,Sevilla,Efectivo
+2024-04-08,Papel higiénico 12u,Hogar,9,5.83,52.47,Lima,Tarjeta débito
+2024-12-03,Velas aromáticas,Hogar,1,8.62,8.62,Querétaro,Efectivo
+2025-11-11,Teclado,Tecnología,1,10.02,10.02,Monterrey,Tarjeta crédito
+2025-02-01,Cable USB-C,Tecnología,1,91.61,91.61,Puebla,Tarjeta crédito
+2025-01-26,Pantalón,Ropa,5,54.32,271.6,Sevilla,Efectivo
+2024-02-02,Jugo naranja 1L,Bebidas,2,5.48,10.96,Monterrey,Tarjeta débito
+2025-04-14,Esponjas x3,Hogar,1,5.15,5.15,Mérida,Transferencia
+2024-02-07,Sudadera,Ropa,9,41.51,373.59,Sevilla,Tarjeta crédito
+2026-02-14,Protector solar,Salud y belleza,2,28.23,56.46,Medellín,Tarjeta crédito
+2025-08-31,Jugo naranja 1L,Bebidas,2,5.33,10.66,Puebla,Tarjeta crédito
+2025-03-28,Protector solar,Salud y belleza,1,18.47,18.47,Querétaro,Efectivo
+2025-05-30,Bolsas de basura 30u,Hogar,1,11.97,11.97,Tijuana,Efectivo
+2024-01-17,Jugo naranja 1L,Bebidas,10,5.12,51.2,Sevilla,Transferencia
+2024-02-15,Detergente 1L,Hogar,6,7.29,43.74,Monterrey,Transferencia
+2026-01-14,Detergente 1L,Hogar,8,6.62,52.96,Ciudad de México,Efectivo
+2024-10-28,Jugo naranja 1L,Bebidas,8,9.67,77.36,Mérida,Transferencia
+2024-04-25,Calcetines pack,Ropa,1,33.88,33.88,Ciudad de México,Tarjeta crédito
+2024-06-09,Atún en lata,Alimentos,1,3.03,3.03,Querétaro,Billetera digital
+2026-01-04,Aceite de oliva 500ml,Alimentos,5,11.24,56.2,Querétaro,Transferencia
+2025-11-16,Agua 1.5L,Bebidas,1,6.46,6.46,Medellín,Efectivo
+2025-10-24,Aceite de oliva 500ml,Alimentos,1,6.8,6.8,Tijuana,Tarjeta débito
+2025-01-20,Shampoo 400ml,Salud y belleza,1,30.01,30.01,Santiago,Billetera digital
+2025-01-27,Cable USB-C,Tecnología,3,48.26,144.78,Querétaro,Tarjeta débito
+2025-04-21,Refresco cola 2L,Bebidas,1,4.66,4.66,Madrid,Tarjeta crédito
+2025-02-11,Jugo naranja 1L,Bebidas,6,5.5,33.0,Madrid,Tarjeta débito
+2024-02-05,Papel higiénico 12u,Hogar,4,12.05,48.2,Puebla,Transferencia
+2025-05-26,Café molido 250g,Alimentos,1,1.75,1.75,León,Tarjeta débito
+2025-04-15,Teclado,Tecnología,1,72.83,72.83,Medellín,Tarjeta débito
+2025-12-27,Agua 1.5L,Bebidas,2,3.82,7.64,Tijuana,Transferencia
+2025-11-28,Esponjas x3,Hogar,2,5.87,11.74,Monterrey,Efectivo
+2024-11-09,Bolsas de basura 30u,Hogar,5,5.25,26.25,Buenos Aires,Billetera digital
+2025-11-12,Detergente 1L,Hogar,4,7.12,28.48,Puebla,Efectivo
+2025-03-19,Té helado 500ml,Bebidas,1,8.42,8.42,Bogotá,Tarjeta crédito
+2025-07-25,Galletas,Alimentos,1,7.93,7.93,Madrid,Efectivo
+2024-07-14,Desodorante,Salud y belleza,5,8.41,42.05,Madrid,Billetera digital
+2024-12-15,Camiseta,Ropa,2,52.81,105.62,Buenos Aires,Billetera digital
+2025-10-17,Jugo naranja 1L,Bebidas,9,5.55,49.95,Guadalajara,Transferencia
+2025-10-31,Galletas,Alimentos,1,5.51,5.51,Tijuana,Efectivo
+2025-08-26,Auriculares,Tecnología,3,36.1,108.3,Lima,Billetera digital
+2025-04-18,Detergente 1L,Hogar,8,15.21,121.68,Medellín,Billetera digital
+2025-01-27,Velas aromáticas,Hogar,2,1.99,3.98,Lima,Transferencia
+2025-09-25,Desodorante,Salud y belleza,1,10.26,10.26,Querétaro,Tarjeta débito
+2025-09-29,Power bank 10k,Tecnología,1,28.48,28.48,Mérida,Billetera digital
+2024-08-24,Sudadera,Ropa,1,76.61,76.61,Buenos Aires,Billetera digital
+2025-12-04,Aceite de oliva 500ml,Alimentos,2,7.81,15.62,Medellín,Tarjeta débito
+2024-09-03,Cable USB-C,Tecnología,1,71.4,71.4,Lima,Transferencia
+2025-03-10,Power bank 10k,Tecnología,3,9.61,28.83,Tijuana,Billetera digital
+2024-08-07,Mouse inalámbrico,Tecnología,1,12.56,12.56,Monterrey,Efectivo
+2026-01-19,Gorra,Ropa,9,18.15,163.35,Lima,Tarjeta crédito
+2024-08-05,Jugo naranja 1L,Bebidas,3,8.22,24.66,León,Tarjeta débito
+2025-09-03,Agua 1.5L,Bebidas,1,4.79,4.79,Guadalajara,Tarjeta débito
+2024-01-23,Cable USB-C,Tecnología,1,114.3,114.3,Monterrey,Transferencia
+2024-04-09,Cable USB-C,Tecnología,1,49.96,49.96,Tijuana,Transferencia
+2026-01-31,Power bank 10k,Tecnología,7,64.12,448.84,León,Tarjeta débito
+2024-11-20,Shampoo 400ml,Salud y belleza,2,22.32,44.64,Puebla,Transferencia
+2024-12-01,Refresco cola 2L,Bebidas,2,1.04,2.08,Sevilla,Transferencia
+2024-06-08,Galletas,Alimentos,7,7.42,51.94,León,Tarjeta crédito
+2025-11-20,Mouse inalámbrico,Tecnología,2,22.39,44.78,Barcelona,Billetera digital
+2025-11-21,Gorra,Ropa,4,51.95,207.8,Lima,Transferencia
+2025-07-30,Gorra,Ropa,8,72.9,583.2,Madrid,Billetera digital
+2025-07-09,Mouse inalámbrico,Tecnología,1,32.03,32.03,Valencia,Transferencia
+2024-10-28,Papel higiénico 12u,Hogar,1,2.61,2.61,Bogotá,Billetera digital
+2024-02-04,Mouse inalámbrico,Tecnología,1,81.44,81.44,Bogotá,Transferencia
+2025-08-27,Atún en lata,Alimentos,5,1.45,7.25,Medellín,Tarjeta débito
+2025-02-21,Esponjas x3,Hogar,1,9.43,9.43,Lima,Billetera digital
+2025-05-15,Pasta 500g,Alimentos,1,11.32,11.32,Querétaro,Tarjeta débito
+2025-01-10,Mouse inalámbrico,Tecnología,3,97.99,293.97,Tijuana,Tarjeta crédito
+2026-01-30,Power bank 10k,Tecnología,2,55.43,110.86,Lima,Billetera digital
+2024-07-10,Power bank 10k,Tecnología,2,89.94,179.88,Guadalajara,Tarjeta débito
+2025-07-01,Power bank 10k,Tecnología,1,94.96,94.96,Ciudad de México,Billetera digital
+2025-10-25,Power bank 10k,Tecnología,5,70.93,354.65,Ciudad de México,Efectivo
+2026-02-18,Velas aromáticas,Hogar,1,13.76,13.76,Madrid,Billetera digital
+2024-08-04,Protector solar,Salud y belleza,1,14.47,14.47,León,Transferencia
+2024-03-02,Jugo naranja 1L,Bebidas,1,4.38,4.38,Madrid,Transferencia
+2025-01-31,Café molido 250g,Alimentos,6,5.4,32.4,Lima,Transferencia
+2025-01-30,Crema hidratante,Salud y belleza,8,29.96,239.68,Barcelona,Tarjeta débito
+2024-09-21,Gorra,Ropa,1,76.25,76.25,Ciudad de México,Transferencia
+2025-01-18,Gorra,Ropa,1,41.98,41.98,Ciudad de México,Tarjeta crédito
+2024-05-23,Pasta dental,Salud y belleza,1,11.68,11.68,Querétaro,Transferencia
+2024-01-25,Agua 1.5L,Bebidas,2,2.76,5.52,Bogotá,Transferencia
+2025-07-18,Papel higiénico 12u,Hogar,4,14.42,57.68,Barcelona,Efectivo
+2024-04-18,Velas aromáticas,Hogar,7,17.56,122.92,Bogotá,Transferencia
+2025-02-01,Detergente 1L,Hogar,2,8.51,17.02,Valencia,Tarjeta crédito
+2024-08-02,Protector solar,Salud y belleza,2,25.29,50.58,Guadalajara,Efectivo
+2026-01-20,Agua 1.5L,Bebidas,1,7.81,7.81,Guadalajara,Tarjeta crédito
+2025-05-06,Refresco cola 2L,Bebidas,5,8.51,42.55,Ciudad de México,Billetera digital
+2024-06-22,Refresco cola 2L,Bebidas,3,1.47,4.41,Querétaro,Transferencia
+2025-09-25,Shampoo 400ml,Salud y belleza,1,18.94,18.94,Tijuana,Transferencia
+2025-02-25,Desodorante,Salud y belleza,9,14.35,129.15,Santiago,Tarjeta débito
+2024-12-07,Gorra,Ropa,4,76.04,304.16,Puebla,Tarjeta débito
+2024-08-04,Detergente 1L,Hogar,2,6.95,13.9,Ciudad de México,Efectivo
+2024-09-08,Calcetines pack,Ropa,1,63.29,63.29,Buenos Aires,Tarjeta débito
+2024-06-30,Galletas,Alimentos,3,3.89,11.67,León,Tarjeta crédito
+2025-06-14,Desodorante,Salud y belleza,1,18.26,18.26,Puebla,Billetera digital
+2025-10-14,Aceite de oliva 500ml,Alimentos,1,7.37,7.37,Madrid,Efectivo
+2025-10-21,Galletas,Alimentos,1,2.47,2.47,Lima,Tarjeta crédito
+2024-12-26,Power bank 10k,Tecnología,3,84.28,252.84,Puebla,Transferencia
+2024-12-13,Velas aromáticas,Hogar,8,7.37,58.96,Querétaro,Transferencia
+2025-01-03,Té helado 500ml,Bebidas,1,5.66,5.66,Bogotá,Billetera digital
+2024-04-26,Calcetines pack,Ropa,8,5.91,47.28,Barcelona,Transferencia
+2025-11-02,Protector solar,Salud y belleza,2,12.65,25.3,Bogotá,Efectivo
+2024-03-20,Agua 1.5L,Bebidas,2,9.94,19.88,Bogotá,Transferencia
+2024-08-16,Cerveza 6-pack,Bebidas,1,7.2,7.2,Buenos Aires,Efectivo
+2025-03-16,Café molido 250g,Alimentos,2,8.0,16.0,Lima,Tarjeta débito
+2025-06-09,Mouse inalámbrico,Tecnología,1,119.53,119.53,Santiago,Efectivo
+2025-07-19,Esponjas x3,Hogar,2,16.32,32.64,Bogotá,Billetera digital
+2024-01-12,Galletas,Alimentos,8,1.82,14.56,Tijuana,Tarjeta crédito
+2024-12-23,Cerveza 6-pack,Bebidas,1,6.51,6.51,Valencia,Billetera digital
+2024-01-08,Cerveza 6-pack,Bebidas,1,6.75,6.75,Valencia,Transferencia
+2025-10-09,Arroz 1kg,Alimentos,1,7.5,7.5,Medellín,Tarjeta débito
+2026-01-01,Mouse inalámbrico,Tecnología,1,37.11,37.11,Medellín,Billetera digital
+2025-05-16,Velas aromáticas,Hogar,1,5.76,5.76,Sevilla,Efectivo
+2025-12-24,Cable USB-C,Tecnología,2,38.35,76.7,Lima,Efectivo
+2025-07-11,Pasta dental,Salud y belleza,1,33.04,33.04,Bogotá,Efectivo
+2024-09-12,Papel higiénico 12u,Hogar,2,16.63,33.26,Puebla,Tarjeta débito
+2024-01-10,Detergente 1L,Hogar,7,15.72,110.04,Mérida,Tarjeta débito
+2024-01-05,Cerveza 6-pack,Bebidas,1,4.26,4.26,Bogotá,Billetera digital
+2024-03-05,Gorra,Ropa,1,78.9,78.9,Medellín,Tarjeta crédito
+2026-02-17,Jugo naranja 1L,Bebidas,2,4.3,8.6,León,Efectivo
+2025-11-19,Jugo naranja 1L,Bebidas,4,5.11,20.44,Ciudad de México,Billetera digital
+2024-04-08,Jugo naranja 1L,Bebidas,1,0.93,0.93,Guadalajara,Tarjeta crédito
+2025-06-01,Sudadera,Ropa,2,45.08,90.16,Querétaro,Transferencia
+2025-10-06,Arroz 1kg,Alimentos,10,7.2,72.0,Medellín,Transferencia
+2025-07-18,Power bank 10k,Tecnología,7,103.16,722.12,Lima,Tarjeta débito
+2024-05-24,Aceite de oliva 500ml,Alimentos,1,3.41,3.41,Valencia,Tarjeta crédito
+2024-01-01,Café molido 250g,Alimentos,8,7.75,62.0,Valencia,Tarjeta crédito
+2025-03-21,Camiseta,Ropa,5,61.77,308.85,Querétaro,Tarjeta débito
+2024-02-03,Sudadera,Ropa,1,13.52,13.52,Monterrey,Tarjeta débito
+2024-06-02,Galletas,Alimentos,1,6.34,6.34,Madrid,Billetera digital
+2026-02-09,Gorra,Ropa,2,68.91,137.82,León,Billetera digital
+2024-02-23,Power bank 10k,Tecnología,8,17.9,143.2,Barcelona,Efectivo
+2026-02-01,Calcetines pack,Ropa,1,15.05,15.05,Medellín,Billetera digital
+2024-10-29,Camiseta,Ropa,1,63.85,63.85,Puebla,Tarjeta débito
+2025-07-31,Crema hidratante,Salud y belleza,4,31.8,127.2,Bogotá,Tarjeta crédito
+2025-12-04,Refresco cola 2L,Bebidas,1,4.03,4.03,Mérida,Billetera digital
+2024-04-07,Pasta 500g,Alimentos,2,7.19,14.38,Ciudad de México,Transferencia
+2025-03-10,Cable USB-C,Tecnología,6,47.0,282.0,Valencia,Efectivo
+2024-06-14,Pasta 500g,Alimentos,1,11.03,11.03,Medellín,Efectivo
+2025-06-25,Pasta dental,Salud y belleza,2,30.46,60.92,Monterrey,Tarjeta débito
+2024-05-12,Bolsas de basura 30u,Hogar,4,8.81,35.24,Tijuana,Transferencia
+2025-02-04,Galletas,Alimentos,1,3.99,3.99,León,Tarjeta débito
+2024-03-09,Papel higiénico 12u,Hogar,9,9.37,84.33,Monterrey,Tarjeta crédito
+2024-07-23,Jugo naranja 1L,Bebidas,1,6.13,6.13,Medellín,Transferencia
+2024-04-20,Café molido 250g,Alimentos,1,2.58,2.58,Medellín,Transferencia
+2024-04-04,Bolsas de basura 30u,Hogar,1,12.86,12.86,Valencia,Transferencia
+2024-12-25,Galletas,Alimentos,2,5.65,11.3,Guadalajara,Transferencia
+2024-07-13,Desodorante,Salud y belleza,1,34.11,34.11,Bogotá,Tarjeta crédito
+2024-03-01,Pasta 500g,Alimentos,1,1.64,1.64,Ciudad de México,Efectivo
+2024-01-05,Camiseta,Ropa,1,31.07,31.07,Mérida,Transferencia
+2025-06-17,Calcetines pack,Ropa,1,14.05,14.05,Bogotá,Tarjeta débito
+2024-08-20,Calcetines pack,Ropa,1,72.07,72.07,Valencia,Tarjeta crédito
+2024-03-18,Teclado,Tecnología,1,44.02,44.02,Madrid,Efectivo
+2024-09-05,Detergente 1L,Hogar,1,12.69,12.69,Mérida,Efectivo
+2024-02-25,Power bank 10k,Tecnología,5,111.14,555.7,Medellín,Transferencia
+2025-07-26,Camiseta,Ropa,1,70.12,70.12,Barcelona,Tarjeta crédito
+2024-01-08,Esponjas x3,Hogar,3,4.14,12.42,Lima,Tarjeta crédito
+2025-12-19,Cable USB-C,Tecnología,2,111.49,222.98,Ciudad de México,Billetera digital
+2025-06-09,Power bank 10k,Tecnología,2,49.32,98.64,Guadalajara,Tarjeta débito
+2024-08-03,Sudadera,Ropa,3,9.68,29.04,Valencia,Transferencia
+2025-11-29,Pasta 500g,Alimentos,1,8.9,8.9,Bogotá,Billetera digital
+2025-09-14,Jugo naranja 1L,Bebidas,5,7.7,38.5,Barcelona,Transferencia
+2025-05-22,Arroz 1kg,Alimentos,1,6.03,6.03,León,Tarjeta débito
+2026-01-08,Bolsas de basura 30u,Hogar,1,2.78,2.78,Ciudad de México,Billetera digital
+2025-09-22,Auriculares,Tecnología,1,10.25,10.25,León,Tarjeta crédito
+2024-09-29,Auriculares,Tecnología,1,44.68,44.68,Querétaro,Transferencia
+2025-06-20,Desodorante,Salud y belleza,6,21.59,129.54,Sevilla,Efectivo
+2025-08-02,Power bank 10k,Tecnología,1,80.67,80.67,Valencia,Tarjeta débito
+2024-05-25,Cable USB-C,Tecnología,1,68.16,68.16,Querétaro,Transferencia
+2024-02-03,Té helado 500ml,Bebidas,2,6.2,12.4,Sevilla,Tarjeta débito
+2026-01-17,Aceite de oliva 500ml,Alimentos,1,4.26,4.26,Madrid,Efectivo
+2025-06-01,Sudadera,Ropa,6,50.57,303.42,Ciudad de México,Efectivo
+2025-03-18,Desodorante,Salud y belleza,1,34.56,34.56,Valencia,Tarjeta débito
+2026-01-10,Cable USB-C,Tecnología,7,8.84,61.88,Valencia,Efectivo
+2024-10-03,Bolsas de basura 30u,Hogar,1,5.18,5.18,Buenos Aires,Transferencia
+2025-05-30,Papel higiénico 12u,Hogar,5,2.49,12.45,León,Billetera digital
+2024-12-15,Mouse inalámbrico,Tecnología,1,108.44,108.44,Madrid,Tarjeta crédito
+2026-01-28,Velas aromáticas,Hogar,1,1.31,1.31,Buenos Aires,Transferencia
+2024-08-16,Crema hidratante,Salud y belleza,9,5.7,51.3,Valencia,Tarjeta crédito
+2024-11-17,Té helado 500ml,Bebidas,2,9.24,18.48,Lima,Tarjeta crédito
+2025-10-07,Auriculares,Tecnología,9,62.96,566.64,Sevilla,Transferencia
+2025-07-27,Atún en lata,Alimentos,7,7.21,50.47,Querétaro,Transferencia
+2025-01-26,Crema hidratante,Salud y belleza,1,29.67,29.67,Monterrey,Transferencia
+2025-10-06,Esponjas x3,Hogar,1,6.5,6.5,Buenos Aires,Tarjeta crédito
+2025-12-24,Bolsas de basura 30u,Hogar,1,5.12,5.12,Buenos Aires,Efectivo
+2025-07-12,Pasta dental,Salud y belleza,3,27.34,82.02,Guadalajara,Billetera digital
+2025-07-03,Pasta 500g,Alimentos,2,2.87,5.74,Medellín,Tarjeta débito
+2024-09-15,Shampoo 400ml,Salud y belleza,1,13.11,13.11,Madrid,Tarjeta crédito
+2024-01-10,Shampoo 400ml,Salud y belleza,2,20.11,40.22,Barcelona,Tarjeta débito
+2024-01-13,Desodorante,Salud y belleza,2,4.9,9.8,Ciudad de México,Tarjeta crédito
+2024-11-14,Detergente 1L,Hogar,2,13.92,27.84,Medellín,Efectivo
+2025-07-03,Velas aromáticas,Hogar,1,6.93,6.93,Querétaro,Tarjeta débito
+2025-08-03,Calcetines pack,Ropa,4,77.38,309.52,Mérida,Tarjeta débito
+2024-11-29,Agua 1.5L,Bebidas,7,9.92,69.44,Buenos Aires,Billetera digital
+2025-08-10,Crema hidratante,Salud y belleza,1,32.57,32.57,Valencia,Billetera digital
+2024-11-15,Refresco cola 2L,Bebidas,2,8.54,17.08,Barcelona,Efectivo
+2026-02-17,Teclado,Tecnología,4,30.58,122.32,Ciudad de México,Transferencia
+2024-10-17,Bolsas de basura 30u,Hogar,1,14.85,14.85,Mérida,Tarjeta crédito
+2025-01-13,Teclado,Tecnología,2,109.68,219.36,Medellín,Transferencia
+2025-08-23,Desodorante,Salud y belleza,5,14.95,74.75,Barcelona,Efectivo
+2024-10-22,Cerveza 6-pack,Bebidas,1,7.37,7.37,Valencia,Tarjeta crédito
+2025-11-21,Cerveza 6-pack,Bebidas,2,5.77,11.54,Santiago,Billetera digital
+2025-07-28,Esponjas x3,Hogar,1,4.95,4.95,Ciudad de México,Transferencia
+2024-08-12,Detergente 1L,Hogar,1,10.04,10.04,Guadalajara,Billetera digital
+2025-09-07,Pasta dental,Salud y belleza,1,19.91,19.91,Medellín,Tarjeta débito
+2024-07-16,Sudadera,Ropa,7,52.08,364.56,León,Tarjeta débito
+2025-07-07,Sudadera,Ropa,1,64.55,64.55,Querétaro,Tarjeta crédito
+2025-10-30,Shampoo 400ml,Salud y belleza,1,26.47,26.47,Medellín,Transferencia
+2025-02-23,Galletas,Alimentos,10,9.33,93.3,Santiago,Tarjeta débito
+2025-02-14,Aceite de oliva 500ml,Alimentos,3,1.56,4.68,Lima,Transferencia
+2025-08-20,Refresco cola 2L,Bebidas,3,5.34,16.02,Querétaro,Billetera digital
+2024-04-27,Bolsas de basura 30u,Hogar,4,2.88,11.52,Sevilla,Efectivo
+2024-08-15,Jugo naranja 1L,Bebidas,1,6.36,6.36,Valencia,Efectivo
+2024-01-15,Desodorante,Salud y belleza,4,6.95,27.8,Puebla,Transferencia
+2024-02-16,Pasta 500g,Alimentos,1,9.54,9.54,León,Transferencia
+2025-02-14,Sudadera,Ropa,2,57.05,114.1,Monterrey,Transferencia
+2024-10-18,Aceite de oliva 500ml,Alimentos,3,7.67,23.01,Puebla,Transferencia
+2025-10-21,Esponjas x3,Hogar,1,16.44,16.44,Buenos Aires,Efectivo
+2025-07-03,Atún en lata,Alimentos,1,5.77,5.77,León,Transferencia
+2024-12-11,Galletas,Alimentos,7,2.86,20.02,Lima,Billetera digital
+2024-05-20,Agua 1.5L,Bebidas,1,1.73,1.73,Barcelona,Efectivo
+2025-09-14,Pasta dental,Salud y belleza,3,21.57,64.71,Puebla,Tarjeta débito
+2024-12-21,Arroz 1kg,Alimentos,6,9.73,58.38,Medellín,Transferencia
+2024-05-06,Arroz 1kg,Alimentos,1,7.42,7.42,León,Billetera digital
+2025-01-12,Cerveza 6-pack,Bebidas,1,1.51,1.51,Barcelona,Efectivo
+2025-04-06,Protector solar,Salud y belleza,7,32.54,227.78,Madrid,Billetera digital
+2025-02-10,Crema hidratante,Salud y belleza,1,9.78,9.78,Madrid,Tarjeta crédito
+2024-12-11,Cable USB-C,Tecnología,4,21.96,87.84,Madrid,Efectivo
+2024-01-01,Atún en lata,Alimentos,5,6.8,34.0,Santiago,Tarjeta débito
+2025-10-22,Power bank 10k,Tecnología,1,91.36,91.36,León,Efectivo
+2024-07-20,Atún en lata,Alimentos,4,1.25,5.0,Santiago,Billetera digital
+2025-07-28,Desodorante,Salud y belleza,1,30.5,30.5,Guadalajara,Transferencia
+2025-01-20,Papel higiénico 12u,Hogar,1,9.17,9.17,Puebla,Transferencia
+2024-12-12,Atún en lata,Alimentos,1,3.63,3.63,Tijuana,Billetera digital
+2026-02-01,Arroz 1kg,Alimentos,1,3.1,3.1,Lima,Tarjeta débito
+2024-06-28,Té helado 500ml,Bebidas,1,9.22,9.22,Tijuana,Tarjeta crédito
+2024-06-25,Pantalón,Ropa,4,25.82,103.28,Tijuana,Tarjeta débito
+2025-10-27,Papel higiénico 12u,Hogar,1,12.28,12.28,Ciudad de México,Efectivo
+2024-03-24,Refresco cola 2L,Bebidas,1,5.93,5.93,Bogotá,Tarjeta débito
+2024-12-07,Atún en lata,Alimentos,1,11.97,11.97,Ciudad de México,Tarjeta débito
+2025-07-14,Aceite de oliva 500ml,Alimentos,1,4.55,4.55,León,Billetera digital
+2024-08-02,Detergente 1L,Hogar,1,14.6,14.6,Mérida,Efectivo
+2024-11-13,Pasta 500g,Alimentos,1,3.26,3.26,Madrid,Billetera digital
+2025-03-04,Atún en lata,Alimentos,1,10.23,10.23,Monterrey,Transferencia
+2024-01-19,Teclado,Tecnología,1,94.86,94.86,Sevilla,Billetera digital
+2024-06-23,Café molido 250g,Alimentos,2,6.97,13.94,Sevilla,Tarjeta débito
+2024-04-22,Camiseta,Ropa,1,46.97,46.97,Sevilla,Efectivo
+2025-10-05,Auriculares,Tecnología,1,104.52,104.52,Guadalajara,Transferencia
+2025-10-04,Power bank 10k,Tecnología,1,38.32,38.32,Puebla,Transferencia
+2024-06-10,Pasta dental,Salud y belleza,1,2.84,2.84,Monterrey,Tarjeta crédito
+2025-04-20,Bolsas de basura 30u,Hogar,4,15.74,62.96,Querétaro,Tarjeta crédito
+2024-01-08,Jugo naranja 1L,Bebidas,1,2.84,2.84,Lima,Transferencia
+2025-03-18,Gorra,Ropa,1,49.63,49.63,Medellín,Transferencia
+2026-01-30,Gorra,Ropa,4,18.39,73.56,Madrid,Tarjeta crédito
+2025-08-31,Shampoo 400ml,Salud y belleza,2,25.79,51.58,Tijuana,Transferencia
+2024-04-05,Mouse inalámbrico,Tecnología,9,75.56,680.04,Madrid,Efectivo
+2025-05-05,Power bank 10k,Tecnología,8,113.77,910.16,Madrid,Tarjeta crédito
+2024-06-30,Velas aromáticas,Hogar,1,5.98,5.98,Lima,Efectivo
+2024-01-07,Papel higiénico 12u,Hogar,2,13.51,27.02,Valencia,Tarjeta crédito
+2024-03-25,Arroz 1kg,Alimentos,1,3.16,3.16,Monterrey,Transferencia
+2025-07-01,Atún en lata,Alimentos,2,8.8,17.6,Santiago,Tarjeta débito
+2025-12-09,Camiseta,Ropa,1,24.46,24.46,Lima,Tarjeta crédito
+2025-01-20,Teclado,Tecnología,1,11.83,11.83,Madrid,Tarjeta crédito
+2025-06-15,Bolsas de basura 30u,Hogar,2,7.96,15.92,Medellín,Efectivo
+2026-01-03,Galletas,Alimentos,1,10.5,10.5,Sevilla,Tarjeta débito
+2025-05-14,Cerveza 6-pack,Bebidas,9,7.97,71.73,León,Tarjeta crédito
+2025-08-15,Bolsas de basura 30u,Hogar,5,9.29,46.45,Santiago,Tarjeta crédito
+2025-12-27,Bolsas de basura 30u,Hogar,4,8.23,32.92,León,Transferencia
+2024-04-24,Gorra,Ropa,1,60.63,60.63,Ciudad de México,Billetera digital
+2024-08-24,Desodorante,Salud y belleza,1,9.19,9.19,Ciudad de México,Tarjeta débito
+2024-10-04,Esponjas x3,Hogar,4,17.73,70.92,Lima,Efectivo
+2025-03-17,Pasta 500g,Alimentos,6,8.67,52.02,Querétaro,Billetera digital
+2024-03-15,Pasta dental,Salud y belleza,4,19.48,77.92,Monterrey,Tarjeta débito
+2024-02-11,Shampoo 400ml,Salud y belleza,2,11.04,22.08,Monterrey,Billetera digital
+2024-01-17,Cerveza 6-pack,Bebidas,1,5.38,5.38,Madrid,Transferencia
+2025-08-10,Papel higiénico 12u,Hogar,1,1.19,1.19,Santiago,Efectivo
+2024-01-27,Desodorante,Salud y belleza,6,30.84,185.04,Monterrey,Tarjeta crédito
+2024-06-16,Refresco cola 2L,Bebidas,1,6.62,6.62,Guadalajara,Tarjeta crédito
+2025-03-30,Velas aromáticas,Hogar,2,15.25,30.5,Madrid,Transferencia
+2025-04-20,Calcetines pack,Ropa,3,36.65,109.95,Madrid,Efectivo
+2024-05-09,Té helado 500ml,Bebidas,1,7.59,7.59,Puebla,Efectivo
+2025-11-23,Auriculares,Tecnología,2,35.48,70.96,Medellín,Billetera digital
+2024-05-28,Cable USB-C,Tecnología,4,56.97,227.88,Medellín,Tarjeta crédito
+2025-11-06,Cerveza 6-pack,Bebidas,3,3.53,10.59,Guadalajara,Tarjeta crédito
+2024-08-14,Jugo naranja 1L,Bebidas,7,4.45,31.15,Tijuana,Tarjeta débito
+2025-10-25,Esponjas x3,Hogar,7,13.45,94.15,Lima,Tarjeta crédito
+2024-10-15,Café molido 250g,Alimentos,1,7.03,7.03,Madrid,Tarjeta débito
+2025-04-11,Cerveza 6-pack,Bebidas,2,1.27,2.54,León,Billetera digital
+2025-05-21,Sudadera,Ropa,2,30.07,60.14,Monterrey,Transferencia
+2024-06-02,Shampoo 400ml,Salud y belleza,1,13.36,13.36,Madrid,Tarjeta crédito
+2024-10-22,Auriculares,Tecnología,3,63.5,190.5,Lima,Billetera digital
+2025-09-07,Cable USB-C,Tecnología,1,35.6,35.6,Buenos Aires,Transferencia
+2024-05-10,Detergente 1L,Hogar,1,1.04,1.04,Buenos Aires,Tarjeta crédito
+2025-03-10,Papel higiénico 12u,Hogar,1,11.03,11.03,Barcelona,Efectivo
+2024-10-01,Café molido 250g,Alimentos,1,9.92,9.92,Puebla,Tarjeta débito
+2024-01-17,Cable USB-C,Tecnología,8,57.95,463.6,Buenos Aires,Billetera digital
+2024-01-12,Café molido 250g,Alimentos,2,10.63,21.26,Medellín,Efectivo
+2026-02-14,Jugo naranja 1L,Bebidas,2,7.78,15.56,Mérida,Tarjeta crédito
+2025-04-29,Camiseta,Ropa,2,68.69,137.38,Sevilla,Billetera digital
+2025-06-20,Jugo naranja 1L,Bebidas,6,6.75,40.5,Santiago,Tarjeta débito
+2025-07-24,Agua 1.5L,Bebidas,9,9.49,85.41,Querétaro,Efectivo
+2024-02-16,Refresco cola 2L,Bebidas,1,6.21,6.21,Querétaro,Tarjeta crédito
+2025-02-04,Cerveza 6-pack,Bebidas,1,6.03,6.03,Barcelona,Billetera digital
+2024-09-06,Calcetines pack,Ropa,1,14.04,14.04,Lima,Efectivo
+2025-06-02,Cerveza 6-pack,Bebidas,1,9.3,9.3,Monterrey,Transferencia
+2025-05-12,Teclado,Tecnología,1,97.08,97.08,Bogotá,Billetera digital
+2024-08-10,Aceite de oliva 500ml,Alimentos,5,10.32,51.6,Sevilla,Tarjeta crédito
+2025-02-05,Velas aromáticas,Hogar,2,11.96,23.92,Barcelona,Tarjeta crédito
+2025-06-09,Aceite de oliva 500ml,Alimentos,2,3.68,7.36,Medellín,Tarjeta crédito
+2024-07-06,Shampoo 400ml,Salud y belleza,1,31.2,31.2,Sevilla,Transferencia
+2024-06-19,Cable USB-C,Tecnología,1,89.17,89.17,Guadalajara,Transferencia
+2024-12-29,Pantalón,Ropa,2,65.3,130.6,Lima,Billetera digital
+2025-05-30,Cable USB-C,Tecnología,4,43.7,174.8,Querétaro,Tarjeta crédito
+2025-12-22,Auriculares,Tecnología,2,55.8,111.6,Lima,Tarjeta crédito
+2024-04-17,Pantalón,Ropa,1,6.83,6.83,Guadalajara,Tarjeta débito
+2024-06-18,Pasta dental,Salud y belleza,10,2.01,20.1,Barcelona,Billetera digital
+2026-02-19,Gorra,Ropa,2,75.43,150.86,Mérida,Efectivo
+2026-01-08,Esponjas x3,Hogar,1,1.16,1.16,Buenos Aires,Transferencia
+2024-01-29,Bolsas de basura 30u,Hogar,3,7.83,23.49,Guadalajara,Efectivo
+2024-09-01,Aceite de oliva 500ml,Alimentos,1,7.47,7.47,Puebla,Billetera digital
+2026-01-17,Pasta dental,Salud y belleza,9,27.35,246.15,Medellín,Efectivo
+2024-12-24,Protector solar,Salud y belleza,2,26.16,52.32,Querétaro,Efectivo
+2025-11-19,Galletas,Alimentos,1,5.03,5.03,Querétaro,Efectivo
+2025-10-31,Velas aromáticas,Hogar,5,13.16,65.8,Querétaro,Billetera digital
+2024-10-19,Shampoo 400ml,Salud y belleza,1,2.59,2.59,Medellín,Billetera digital
+2025-08-07,Teclado,Tecnología,1,51.86,51.86,Querétaro,Billetera digital
+2024-05-19,Atún en lata,Alimentos,8,9.82,78.56,Madrid,Billetera digital
+2025-01-14,Detergente 1L,Hogar,1,15.95,15.95,Santiago,Efectivo
+2024-10-28,Refresco cola 2L,Bebidas,2,9.11,18.22,Lima,Transferencia
+2024-08-13,Refresco cola 2L,Bebidas,1,9.92,9.92,Querétaro,Tarjeta débito
+2025-07-24,Aceite de oliva 500ml,Alimentos,1,10.25,10.25,Puebla,Billetera digital
+2024-11-05,Gorra,Ropa,2,43.45,86.9,Guadalajara,Efectivo
+2024-11-25,Pantalón,Ropa,1,33.81,33.81,Buenos Aires,Tarjeta débito
+2026-01-22,Refresco cola 2L,Bebidas,8,8.4,67.2,Mérida,Transferencia
+2025-05-31,Café molido 250g,Alimentos,1,11.67,11.67,Santiago,Tarjeta débito
+2025-11-19,Cable USB-C,Tecnología,1,74.89,74.89,Medellín,Transferencia
+2026-01-22,Té helado 500ml,Bebidas,1,4.45,4.45,León,Efectivo
+2025-11-20,Mouse inalámbrico,Tecnología,1,119.59,119.59,Santiago,Billetera digital
+2024-01-03,Power bank 10k,Tecnología,4,33.14,132.56,Medellín,Transferencia
+2024-04-29,Gorra,Ropa,3,7.61,22.83,Madrid,Tarjeta débito
+2025-08-02,Té helado 500ml,Bebidas,2,1.64,3.28,Querétaro,Efectivo
+2025-09-08,Atún en lata,Alimentos,1,4.15,4.15,Valencia,Efectivo
+2025-06-24,Camiseta,Ropa,5,76.67,383.35,Sevilla,Tarjeta crédito
+2024-11-27,Detergente 1L,Hogar,1,6.59,6.59,Mérida,Efectivo
+2025-06-20,Cable USB-C,Tecnología,2,17.74,35.48,Querétaro,Transferencia
+2024-05-03,Pasta 500g,Alimentos,1,4.01,4.01,Barcelona,Efectivo
+2024-06-24,Café molido 250g,Alimentos,1,2.08,2.08,Guadalajara,Transferencia
+2024-11-11,Sudadera,Ropa,1,72.09,72.09,León,Transferencia
+2025-08-15,Aceite de oliva 500ml,Alimentos,1,10.74,10.74,León,Tarjeta crédito
+2024-11-13,Detergente 1L,Hogar,2,15.02,30.04,Lima,Tarjeta débito
+2025-07-21,Agua 1.5L,Bebidas,2,5.8,11.6,Medellín,Transferencia
+2026-01-18,Crema hidratante,Salud y belleza,3,19.2,57.6,Valencia,Transferencia
+2024-12-01,Camiseta,Ropa,2,68.79,137.58,Monterrey,Tarjeta crédito
+2025-07-24,Papel higiénico 12u,Hogar,1,6.68,6.68,Querétaro,Billetera digital
+2025-07-10,Protector solar,Salud y belleza,2,24.44,48.88,Sevilla,Transferencia
+2024-07-09,Aceite de oliva 500ml,Alimentos,2,3.24,6.48,León,Efectivo
+2024-05-12,Arroz 1kg,Alimentos,5,10.62,53.1,León,Transferencia
+2024-01-31,Protector solar,Salud y belleza,4,6.25,25.0,Barcelona,Tarjeta crédito
+2024-12-28,Café molido 250g,Alimentos,1,11.01,11.01,Ciudad de México,Billetera digital
+2024-03-22,Pantalón,Ropa,4,67.41,269.64,Querétaro,Efectivo
+2025-06-07,Auriculares,Tecnología,1,40.15,40.15,Santiago,Tarjeta débito
+2024-02-15,Calcetines pack,Ropa,1,46.99,46.99,Mérida,Tarjeta crédito
+2024-12-25,Sudadera,Ropa,1,52.55,52.55,Monterrey,Billetera digital
+2024-12-30,Gorra,Ropa,3,13.02,39.06,Sevilla,Billetera digital
+2025-02-17,Café molido 250g,Alimentos,1,5.87,5.87,Valencia,Tarjeta crédito
+2025-02-15,Pasta dental,Salud y belleza,2,32.76,65.52,Santiago,Efectivo
+2024-10-04,Shampoo 400ml,Salud y belleza,7,24.7,172.9,Santiago,Tarjeta crédito
+2024-08-29,Papel higiénico 12u,Hogar,7,3.83,26.81,Puebla,Billetera digital
+2025-06-07,Desodorante,Salud y belleza,1,21.21,21.21,Querétaro,Tarjeta crédito
+2025-12-05,Bolsas de basura 30u,Hogar,1,2.27,2.27,Lima,Tarjeta débito
+2024-07-28,Pasta dental,Salud y belleza,5,34.13,170.65,Valencia,Tarjeta débito
+2024-10-11,Agua 1.5L,Bebidas,1,6.76,6.76,Barcelona,Tarjeta crédito
+2025-01-15,Papel higiénico 12u,Hogar,1,2.12,2.12,Guadalajara,Tarjeta débito
+2024-02-02,Aceite de oliva 500ml,Alimentos,1,6.48,6.48,Medellín,Billetera digital
+2025-04-03,Cable USB-C,Tecnología,2,57.94,115.88,Valencia,Efectivo
+2025-03-05,Atún en lata,Alimentos,1,11.4,11.4,Tijuana,Efectivo
+2024-04-08,Detergente 1L,Hogar,1,3.78,3.78,Lima,Efectivo
+2024-06-05,Aceite de oliva 500ml,Alimentos,1,10.27,10.27,Madrid,Transferencia
+2025-11-17,Pasta dental,Salud y belleza,2,23.6,47.2,Buenos Aires,Efectivo
+2025-06-22,Cerveza 6-pack,Bebidas,5,9.66,48.3,Valencia,Efectivo
+2025-03-15,Sudadera,Ropa,1,75.77,75.77,Monterrey,Transferencia
+2024-03-24,Café molido 250g,Alimentos,1,4.16,4.16,Mérida,Billetera digital
+2025-01-21,Esponjas x3,Hogar,1,6.45,6.45,Puebla,Tarjeta crédito
+2025-06-10,Esponjas x3,Hogar,3,4.41,13.23,Medellín,Transferencia
+2025-06-07,Calcetines pack,Ropa,2,40.36,80.72,Mérida,Transferencia
+2025-06-22,Velas aromáticas,Hogar,8,4.15,33.2,Guadalajara,Efectivo
+2025-10-18,Calcetines pack,Ropa,1,16.52,16.52,Bogotá,Tarjeta crédito
+2024-01-27,Atún en lata,Alimentos,5,9.42,47.1,Buenos Aires,Efectivo
+2025-01-21,Pantalón,Ropa,4,27.06,108.24,Ciudad de México,Tarjeta débito
+2025-06-19,Calcetines pack,Ropa,7,51.25,358.75,Guadalajara,Tarjeta débito
+2025-07-11,Pasta 500g,Alimentos,1,1.21,1.21,Santiago,Efectivo
+2025-03-30,Cable USB-C,Tecnología,1,84.78,84.78,Guadalajara,Billetera digital
+2026-01-09,Cerveza 6-pack,Bebidas,2,2.87,5.74,Santiago,Efectivo
+2025-12-26,Auriculares,Tecnología,2,38.13,76.26,Querétaro,Billetera digital
+2024-12-09,Velas aromáticas,Hogar,1,17.73,17.73,Lima,Efectivo
+2025-12-21,Agua 1.5L,Bebidas,1,1.47,1.47,Ciudad de México,Tarjeta débito
+2024-11-15,Cable USB-C,Tecnología,1,117.17,117.17,Buenos Aires,Billetera digital
+2024-06-14,Aceite de oliva 500ml,Alimentos,1,8.71,8.71,Bogotá,Transferencia
+2024-04-11,Té helado 500ml,Bebidas,6,7.46,44.76,Medellín,Transferencia
+2025-11-21,Agua 1.5L,Bebidas,1,3.03,3.03,Querétaro,Tarjeta crédito
+2024-02-15,Mouse inalámbrico,Tecnología,1,63.88,63.88,Barcelona,Tarjeta crédito
+2024-03-26,Desodorante,Salud y belleza,1,13.42,13.42,Santiago,Tarjeta crédito
+2024-08-29,Gorra,Ropa,1,43.83,43.83,Medellín,Efectivo
+2026-01-14,Refresco cola 2L,Bebidas,1,1.11,1.11,Santiago,Billetera digital
+2024-04-25,Agua 1.5L,Bebidas,1,3.76,3.76,Tijuana,Tarjeta débito
+2024-06-14,Cerveza 6-pack,Bebidas,2,7.14,14.28,Ciudad de México,Efectivo
+2024-05-22,Gorra,Ropa,1,17.56,17.56,Santiago,Transferencia
+2024-10-31,Pantalón,Ropa,8,14.32,114.56,Monterrey,Tarjeta crédito
+2025-09-26,Velas aromáticas,Hogar,1,16.92,16.92,Valencia,Billetera digital
+2024-12-24,Power bank 10k,Tecnología,2,41.47,82.94,Monterrey,Tarjeta débito
+2025-12-16,Detergente 1L,Hogar,5,13.14,65.7,Barcelona,Transferencia
+2024-11-13,Protector solar,Salud y belleza,4,22.2,88.8,Santiago,Tarjeta débito
+2025-01-17,Gorra,Ropa,1,72.11,72.11,Mérida,Tarjeta débito
+2025-01-24,Cable USB-C,Tecnología,4,58.66,234.64,Guadalajara,Tarjeta crédito
+2025-05-29,Pantalón,Ropa,1,17.3,17.3,Medellín,Tarjeta débito
+2024-01-14,Jugo naranja 1L,Bebidas,1,1.36,1.36,León,Efectivo
+2024-03-27,Sudadera,Ropa,2,40.95,81.9,Monterrey,Efectivo
+2024-08-30,Té helado 500ml,Bebidas,1,9.78,9.78,Bogotá,Tarjeta débito
+2024-12-21,Desodorante,Salud y belleza,3,30.77,92.31,Monterrey,Billetera digital
+2024-11-04,Crema hidratante,Salud y belleza,2,18.44,36.88,Querétaro,Tarjeta débito
+2025-08-16,Protector solar,Salud y belleza,1,23.56,23.56,Lima,Billetera digital
+2025-07-02,Arroz 1kg,Alimentos,10,11.73,117.3,Monterrey,Tarjeta crédito
+2025-10-04,Protector solar,Salud y belleza,1,15.31,15.31,Bogotá,Tarjeta débito
+2025-03-20,Calcetines pack,Ropa,1,7.3,7.3,Ciudad de México,Transferencia
+2024-12-18,Protector solar,Salud y belleza,5,7.75,38.75,Medellín,Efectivo
+2025-12-25,Mouse inalámbrico,Tecnología,3,91.18,273.54,Buenos Aires,Efectivo
+2025-02-07,Auriculares,Tecnología,2,90.36,180.72,Guadalajara,Tarjeta débito
+2025-01-16,Power bank 10k,Tecnología,9,12.49,112.41,Valencia,Transferencia
+2025-11-19,Jugo naranja 1L,Bebidas,1,6.21,6.21,Querétaro,Efectivo
+2024-09-06,Desodorante,Salud y belleza,3,18.06,54.18,Santiago,Transferencia
+2025-07-31,Jugo naranja 1L,Bebidas,2,8.1,16.2,Sevilla,Billetera digital
+2024-10-21,Aceite de oliva 500ml,Alimentos,1,7.6,7.6,León,Transferencia
+2024-09-02,Aceite de oliva 500ml,Alimentos,1,5.35,5.35,Barcelona,Tarjeta débito
+2025-06-13,Agua 1.5L,Bebidas,2,7.54,15.08,Guadalajara,Efectivo
+2025-06-03,Cable USB-C,Tecnología,1,75.41,75.41,Madrid,Tarjeta débito
+2024-10-24,Jugo naranja 1L,Bebidas,1,9.74,9.74,Lima,Tarjeta débito
+2025-01-09,Cerveza 6-pack,Bebidas,1,1.44,1.44,Sevilla,Transferencia
+2025-07-06,Teclado,Tecnología,1,105.52,105.52,Valencia,Tarjeta crédito
+2025-09-14,Café molido 250g,Alimentos,2,7.46,14.92,Sevilla,Transferencia
+2024-03-24,Refresco cola 2L,Bebidas,2,2.3,4.6,Santiago,Tarjeta crédito
+2024-01-28,Aceite de oliva 500ml,Alimentos,1,8.29,8.29,Valencia,Billetera digital
+2025-03-24,Pasta dental,Salud y belleza,3,6.32,18.96,Medellín,Billetera digital
+2024-10-27,Arroz 1kg,Alimentos,1,3.73,3.73,Madrid,Tarjeta débito
+2024-01-10,Esponjas x3,Hogar,1,3.89,3.89,Buenos Aires,Efectivo
+2025-08-27,Café molido 250g,Alimentos,1,10.15,10.15,Guadalajara,Billetera digital
+2024-09-13,Pantalón,Ropa,1,49.09,49.09,Santiago,Billetera digital
+2025-05-27,Detergente 1L,Hogar,1,7.11,7.11,Buenos Aires,Billetera digital
+2024-10-10,Cable USB-C,Tecnología,1,90.48,90.48,Bogotá,Billetera digital
+2024-07-22,Protector solar,Salud y belleza,1,29.86,29.86,Puebla,Tarjeta débito
+2025-07-09,Café molido 250g,Alimentos,1,10.53,10.53,Santiago,Efectivo
+2025-09-11,Sudadera,Ropa,2,7.56,15.12,Querétaro,Tarjeta débito
+2024-11-29,Gorra,Ropa,1,44.84,44.84,Buenos Aires,Billetera digital
+2024-01-20,Arroz 1kg,Alimentos,1,8.11,8.11,Guadalajara,Tarjeta débito
+2024-02-04,Desodorante,Salud y belleza,1,32.82,32.82,Valencia,Billetera digital
+2024-06-09,Mouse inalámbrico,Tecnología,1,12.66,12.66,Sevilla,Tarjeta débito
+2025-05-04,Bolsas de basura 30u,Hogar,1,9.16,9.16,Lima,Tarjeta débito
+2024-09-07,Cable USB-C,Tecnología,1,114.6,114.6,Medellín,Billetera digital
+2024-11-01,Bolsas de basura 30u,Hogar,9,10.86,97.74,Sevilla,Billetera digital
+2024-07-02,Cable USB-C,Tecnología,1,62.75,62.75,Medellín,Transferencia
+2025-03-03,Aceite de oliva 500ml,Alimentos,2,2.56,5.12,Lima,Tarjeta crédito
+2025-09-29,Cable USB-C,Tecnología,1,86.92,86.92,Medellín,Tarjeta crédito
+2026-01-15,Calcetines pack,Ropa,3,17.18,51.54,Bogotá,Billetera digital
+2024-12-06,Pantalón,Ropa,1,55.45,55.45,Guadalajara,Billetera digital
+2024-12-17,Mouse inalámbrico,Tecnología,1,115.89,115.89,Sevilla,Billetera digital
+2024-06-23,Mouse inalámbrico,Tecnología,2,101.87,203.74,León,Tarjeta crédito
+2024-08-05,Camiseta,Ropa,1,6.31,6.31,Tijuana,Tarjeta crédito
+2024-05-24,Teclado,Tecnología,4,104.84,419.36,Madrid,Tarjeta débito
+2025-08-10,Mouse inalámbrico,Tecnología,1,97.1,97.1,Madrid,Billetera digital
+2024-01-01,Calcetines pack,Ropa,1,54.42,54.42,Guadalajara,Tarjeta débito
+2024-02-22,Pantalón,Ropa,2,48.29,96.58,Lima,Transferencia
+2024-08-07,Calcetines pack,Ropa,1,50.37,50.37,Lima,Tarjeta débito
+2025-07-28,Cable USB-C,Tecnología,9,53.57,482.13,Lima,Billetera digital
